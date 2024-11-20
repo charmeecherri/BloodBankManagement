@@ -47,9 +47,7 @@ Testing
 Using Swagger:
 Access the Swagger UI at http://localhost:<port>/swagger.
 Test all endpoints interactively.
-Use Postman:
-Import the provided sample JSON payloads.
-Test each endpoint manually and capture screenshots
+
 
 
 
